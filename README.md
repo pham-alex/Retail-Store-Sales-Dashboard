@@ -17,9 +17,13 @@ The dashboard includes interactive buttons that allow users to navigate between 
 - **Customer Age Distribution:** Displays the age distribution of customers to identify the most common customer age groups.
 - **Average Customer Rating:** Shows average product ratings to evaluate customer satisfaction.
 
-## Dataset Information
+## Tools & Technologies
+- **Power BI:** Dashboard development and data visualization.
 
-The dataset contains customer and purchasing information, including:
+## Data Source
+Source: https://www.kaggle.com/datasets/hassanjameelahmed/store-sales
+
+Example data on retail store product sales based on 5,001 transactions over a specified period. This dataset included customer and purchasing information of:
 
 | Column | Description |
 |---|---|
@@ -34,10 +38,6 @@ The dataset contains customer and purchasing information, including:
 | ItemRating | Customer rating of the purchased item |
 | DiscountApplied(%) | Discount percentage applied |
 
-## Tools & Technologies
-- **Power BI:** Dashboard development and data visualization.
-- **Power Query:** Data cleaning and transformation.
-- **DAX:** Calculations and measures for analyzing customer data.
 
 ## Key Objectives
 - Identify popular product categories and items.
