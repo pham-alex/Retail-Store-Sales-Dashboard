@@ -49,3 +49,6 @@ Example data on retail store product sales based on 5,001 transactions over a sp
 
 ## Purpose
 This project demonstrates the use of data analysis and visualization to transform retail customer data into meaningful insights that can help businesses better understand their customers and make informed decisions.
+
+## Screenshot
+https://github.com/pham-alex/Retail-Store-Sales-Dashboard/blob/main/RetailStoreSalesSS.png 
